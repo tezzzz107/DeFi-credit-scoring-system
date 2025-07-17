@@ -128,6 +128,20 @@ Strengths: Balanced activity, Regular repayments, Long-term usage
 - **Negative Correlations**: High bot scores + volume concentration + liquidation ratios
 - **Neutral Factors**: Asset diversity shows mixed correlation (quality over quantity)
 
+
+### Visulaziations
+
+<img width="850" height="547" alt="image" src="https://github.com/user-attachments/assets/6c2de1aa-e667-45b8-8551-120082c9238e" />
+
+<img width="704" height="470" alt="image" src="https://github.com/user-attachments/assets/456911d9-7407-4fb0-9db1-20a0e905ebc6" />
+
+<img width="1764" height="497" alt="Screenshot 2025-07-17 200557" src="https://github.com/user-attachments/assets/2879da6f-5f2d-4206-a73a-f38cd4321749" />
+
+<img width="1747" height="478" alt="Screenshot 2025-07-17 200614" src="https://github.com/user-attachments/assets/b6f4219f-8496-4550-92e3-60034a1af528" />
+
+<img width="1626" height="493" alt="Screenshot 2025-07-17 200626" src="https://github.com/user-attachments/assets/69e24265-0eb8-48e0-8f79-61a976986c54" />
+
+
 ## Risk Assessment Findings
 
 ### Bot Detection Results
@@ -239,5 +253,3 @@ The model's strong performance (R² = 0.863) validates the feature engineering a
 - Modular design for easy extension
 
 ---
-
-*Analysis generated from 100,000 Aave V2 transactions across 3,497 wallets using machine learning-based credit scoring system.*

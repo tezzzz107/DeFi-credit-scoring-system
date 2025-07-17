@@ -131,6 +131,8 @@ Strengths: Balanced activity, Regular repayments, Long-term usage
 
 ### Visulaziations
 
+<img width="859" height="547" alt="image" src="https://github.com/user-attachments/assets/13d70381-4d78-4adc-8ae3-5ccaf5e0ed1c" />
+
 <img width="850" height="547" alt="image" src="https://github.com/user-attachments/assets/6c2de1aa-e667-45b8-8551-120082c9238e" />
 
 <img width="704" height="470" alt="image" src="https://github.com/user-attachments/assets/456911d9-7407-4fb0-9db1-20a0e905ebc6" />
